@@ -93,7 +93,7 @@ for(var i = 0; i<cell.length; i++)
 
 	cell[i].num = i; //num starts from 0 to 8, from left to right.
 	cell[i].type = "nothing"+i;
-	console.log(cell[i].type);
+	
 
 }
 
